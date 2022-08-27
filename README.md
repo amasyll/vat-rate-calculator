@@ -25,7 +25,7 @@ $ npm install vat-rate-calculator
 const calculator = require('vat-rate-calculator')
 ```
 ### calculator('TF', amount-ati, vat-rate)
-			or
+#### Or
 ### calculator(amount-ati, vat-rate)
 Returns the value excluding tax of a given amount
 ```js
@@ -46,7 +46,7 @@ calculator('ATI',50000,18) // => 59000
 Returns the value added tax of a given amount
 
 ```js
-calculator('ATI',59000,18) // => 9000
+calculator('VAT',59000,18) // => 9000
 ```
 ### calculator.sum(...args)
 
