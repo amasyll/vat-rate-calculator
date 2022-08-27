@@ -2,7 +2,6 @@
   "name": "vat-rate-calculator",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "VAT calculator",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +13,7 @@
   ],
   "author": "Amadou Sylla",
   "license": "MIT",
-  "description": "This module provides from the standard value added tax calculation formula who is below\r ```txt\r HT = ATI / (1 + decimal of VAT)\r ATI = TF * (1 + decimal of VAT)\r VAT = TF * (decimal of VAT)\r \t\t\tNOTE: \r decimal value of VAT => VAT rate/100\r \tVAT => value added tax\r \t TF => tax free\r \tATI => all tax included\r ```\r ## Installation",
+  "description": "This module provides from the standard value added tax calculation formula,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amasyll/vat-rate-calculator.git"
