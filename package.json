@@ -13,7 +13,7 @@
   ],
   "author": "Amadou Sylla",
   "license": "MIT",
-  "description": "This module provides from the standard value added tax calculation formula,
+  "description": "This module provides from the standard value added tax calculation formula,"
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amasyll/vat-rate-calculator.git"
